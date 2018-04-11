@@ -1,0 +1,165 @@
+<div class="container"><header class="codrops-header">
+<h1><strong>Красота</strong> &ndash; это вечность, длящаяся мгновение.</h1>
+<h2>Навигация по контенту листанием. Продолжайте просмотр нажатием на кнопки со стрелками навигации.</h2>
+</header>
+<section class="main">
+<div class="windy-demo windy-demo-2">
+<ul id="wi-el" class="wi-container">
+<li><img src="sm_full.aspx?guid=5993" alt="image1" />
+<h4>Директор</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6003" alt="image2" />
+<h4>Зам.директора по УВР</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6013" alt="image3" />
+<h4>Зам.директора по АХР</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6023" alt="image4" />
+<h4>Зам.директора по ВР</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6033" alt="image5" />
+<h4>Учитель математики</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6043" alt="image6" />
+<h4>Педагог-организатор</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6053" alt="image7" />
+<h4>Педагог-психолог</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6063" alt="image8" />
+<h4>Социальный педагог</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6073" alt="image9" />
+<h4>Учитель информатики</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6083" alt="image10" />
+<h4>Учитель физики</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6093" alt="image11" />
+<h4>Учитель химии</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6103" alt="image12" />
+<h4>Учитель географии</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6113" alt="image13" />
+<h4>Учитель русского языка</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6123" alt="image14" />
+<h4>Учитель музыки</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6133" alt="image15" />
+<h4>Учитель истории</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6143" alt="image16" />
+<h4>Учитель белорусского языка</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6153" alt="image17" />
+<h4>Учитель физкультуры</h4>
+</li>
+<li><img src="sm_full.aspx?guid=5993" alt="image1" />
+<h4>Директор</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6003" alt="image2" />
+<h4>Зам.директора по УВР</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6013" alt="image3" />
+<h4>Зам.директора по АХР</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6023" alt="image4" />
+<h4>Зам.директора по ВР</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6033" alt="image5" />
+<h4>Учитель математики</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6043" alt="image6" />
+<h4>Педагог-организатор</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6053" alt="image7" />
+<h4>Педагог-психолог</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6063" alt="image8" />
+<h4>Социальный педагог</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6073" alt="image9" />
+<h4>Учитель информатики</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6083" alt="image10" />
+<h4>Учитель физики</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6093" alt="image11" />
+<h4>Учитель химии</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6103" alt="image12" />
+<h4>Учитель географии</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6113" alt="image13" />
+<h4>Учитель русского языка</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6123" alt="image14" />
+<h4>Учитель музыки</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6133" alt="image15" />
+<h4>Учитель истории</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6143" alt="image16" />
+<h4>Учитель белорусского языка</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6153" alt="image17" />
+<h4>Учитель физкультуры</h4>
+</li>
+<li><img src="sm_full.aspx?guid=5993" alt="image1" />
+<h4>Директор</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6003" alt="image2" />
+<h4>Зам.директора по УВР</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6013" alt="image3" />
+<h4>Зам.директора по АХР</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6023" alt="image4" />
+<h4>Зам.директора по ВР</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6033" alt="image5" />
+<h4>Учитель математики</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6043" alt="image6" />
+<h4>Педагог-организатор</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6053" alt="image7" />
+<h4>Педагог-психолог</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6063" alt="image8" />
+<h4>Социальный педагог</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6073" alt="image9" />
+<h4>Учитель информатики</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6083" alt="image10" />
+<h4>Учитель физики</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6093" alt="image11" />
+<h4>Учитель химии</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6103" alt="image12" />
+<h4>Учитель географии</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6113" alt="image13" />
+<h4>Учитель русского языка</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6123" alt="image14" />
+<h4>Учитель музыки</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6133" alt="image15" />
+<h4>Учитель истории</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6143" alt="image16" />
+<h4>Учитель белорусского языка</h4>
+</li>
+<li><img src="sm_full.aspx?guid=6153" alt="image17" />
+<h4>Учитель физкультуры</h4>
+</li>
+</ul>
+<nav><span id="nav-prev">пред</span> <span id="nav-next">след</span></nav></div>
+<p class="info"><strong>Совет:</strong>чтобы посмотреть на непрерывный поток картинок, удерживайте нажатой мышку, выбрав одну из навигационных стрелок</p>
+</section>
+</div>

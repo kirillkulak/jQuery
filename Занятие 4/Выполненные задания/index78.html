@@ -1,0 +1,31 @@
+<!DOCKTYPE html>
+<html>
+	<head>
+		<script src="jQuery/jquery-1.9.1.min.js"></script>
+		<script>
+			$(document).ready(function() {
+				$("#ff").click(function() { 
+					var p=$("p:eq(2),p:eq(4)");
+					p.animate({marginLeft: '100px'}, "slow");
+				});
+					$("div").click(function() { 
+					var div = $(this);
+					div.animate({marginTop: '30px'}, "slow");
+				});
+			});
+		</script>
+	</head>
+	<body>
+	<button id="ff">Запустить анимацию!</button>
+	<p style="width:100px;height:30px;background-color:white;position:absolute;z-index:1;">Первый абзац</p><br><br>
+	<br><br><div style="background:#98bf21;height:20px;width:50px;position:absolute;z-index:2;"></div><br>
+	<p style="width:100px;height:30px;background-color:white;position:absolute;z-index:1;">Второй абзац</p><br><br>
+	<br><br><div style="background:#98bf21;height:20px;width:50px;position:absolute;z-index:2;"></div><br>
+	<p style="width:100px;height:30px;background-color:white;position:absolute;z-index:1;">Третий абзац</p><br><br>
+	<br><br><div style="background:#98bf21;height:20px;width:50px;position:absolute;z-index:2;"></div><br>
+	<p style="width:110px;height:30px;background-color:white;position:absolute;z-index:1;">Четверый абзац</p><br><br>
+	<br><br><div style="background:#98bf21;height:20px;width:50px;position:absolute;z-index:2;"></div><br>
+	<p style="width:100px;height:30px;background-color:white;position:absolute;z-index:1;">Пятый абзац</p><br><br>
+	<br><br><div style="background:#98bf21;height:20px;width:50px;position:absolute;z-index:2;"></div><br>
+</body>
+</html>

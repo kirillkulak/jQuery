@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<script src="jQuery/jquery-latest.js"></script>
+			<script>
+				$(document).ready(function () {
+					$("#but1").click(function () {
+						$("#test").hide();
+					});
+					$("#but2").click(function () {
+						$("#test").show();
+					});
+				});
+			</script>
+		</head>
+		<body>
+			<h2>Это заголовок 2 уровня!</h2>
+			<P>А это абзац.</P>
+			<p id="test">А вот это ещё один абзац!</p>
+			<button id="but1">Спрятать абзац с id=test</button>
+			<button id="but2">Показать абзац с id=test</button>
+		</body>
+	</html>

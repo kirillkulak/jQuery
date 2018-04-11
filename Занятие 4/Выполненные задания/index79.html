@@ -1,0 +1,22 @@
+<!DOCKTYPE html>
+<html>
+	<head>
+		<script src="jQuery/jquery-1.9.1.min.js"></script>
+		<script>
+			$(document).ready(function() {
+				$("button").click(function() { 
+					var div=$("div:odd");
+					$("div:odd").fadeOut("slow");
+				});
+			});
+		</script>
+	</head>
+	<body>
+	<button>Запустить анимацию!</button><br>
+	<br><div style="width:80px;height:80px;background-color:red;"></div><br>
+	<div style="width:80px;height:80px;background-color:green;"></div><br>
+	<div style="width:80px;height:80px;background-color:blue;"></div><br>
+	<div style="width:80px;height:80px;background-color:pink;"></div><br>
+	<div style="width:80px;height:80px;background-color:purple;"></div><br>
+</body>
+</html>
